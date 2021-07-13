@@ -1,0 +1,49 @@
+/*
+=> Fondos
+=> Iconos
+=> Fuentes
+= { }
+= < >
+*/
+
+* { 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+    
+header {
+    background-color: #E3CEF6;
+    text-align: center;
+}
+h1, h2{
+    color: #210B61;
+}
+
+footer {
+    background-color: #E3CEF6;
+    text-align: center;
+     
+}
+.redessociales {
+    width: 20px;
+    height: 20px;
+    border-radius: 10%;
+}
+
+span { 
+    font-weight: bold;
+}
+
+.sobremi {
+    background-color: #E3CEF6;
+}
+.viajes {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.libros {
+    width: 120px;
+    height: 200px;
+    border-radius: 0%;
+} 
+
