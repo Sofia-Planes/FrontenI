@@ -1,0 +1,39 @@
+/*
+=> Fondos
+=> Iconos
+=> Fuentes
+= { }
+= < >
+*/
+.ofertas {
+    background: #222222;
+    color: white;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+header {
+    background: #F0A83E;
+}
+
+.barranav {
+    font-family: Roboto;
+    color: white;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.logo {
+    height: 23px;
+    width: 120px;
+   
+}
+
